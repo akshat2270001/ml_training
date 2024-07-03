@@ -4,7 +4,7 @@ e=plt.axes(projection="3d")
 
 
 
-x1=np.random.randint(0,50,600)
+x1=np.random.randint(0,50,50)
 y1=np.random.randint(0,40,50)
 z1=np.random.randint(0,30,50)
 e.scatter(x1,y1,z1,marker='d',label='dataset1')
