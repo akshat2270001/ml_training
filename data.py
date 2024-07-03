@@ -1,0 +1,8 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+mlstu=np.random.randint(10,50,100)
+pystu=np.random.randint(10,50,20)
+print(mlstu)
+print(pystu)
